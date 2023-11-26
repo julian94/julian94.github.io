@@ -7,7 +7,7 @@ Søt og fyldig saus egnet til kylling og kalkun.
 * 1/2 cm ingefær, finrevet
 * 1 ss olje/smør
 * 1 stor raud/gul paprika, hakka
-* 1 ss fersk timmian, hakka eller 1/2 ts tørka timian
+* 1 ss fersk timian, hakka eller 1/2 ts tørka timian
 * 1,5 dl vann
 * 1/2 grønsaksbuljongterning
 * 3 ss søt chilisaus

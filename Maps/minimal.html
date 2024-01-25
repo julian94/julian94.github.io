@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <link rel="icon" type="image/x-icon" href="https://openlayers.org/favicon.ico" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Minimal Self-Contained OL</title>
+  
+  <!-- Use this for a specific version. -->
+  <script src="https://cdn.jsdelivr.net/npm/ol@v8.2.0/dist/ol.js"></script>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/ol@v8.2.0/ol.css">
+
+<!-- Use this if you always want latest.
+  <script src="https://cdn.jsdelivr.net/npm/ol@latest/dist/ol.js"></script>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/ol@latest/ol.css">
+-->
+<!-- Use this if you want to host them yourself.
+  <script src="./ol/v8.2.0.js"></script>
+  <link rel="stylesheet" href="./ol/v8.2.0.css">
+-->
+</head>
+
+<body>
+  <div id="map" \>
+</body>
+
+<script type="module">
+  const map = new ol.Map({
+    target: 'map',
+    layers: [
+      new ol.layer.Tile({
+        source: new ol.source.OSM(),
+      })
+    ],
+    view: new ol.View({
+      center: [0, 0],
+      zoom: 2,
+    })
+  });
+</script>
+
+<style>
+html, body {
+margin: 0;
+height: 100%;
+}
+#map {
+position: absolute;
+top: 0;
+bottom: 0;
+width: 100%;
+}
+</style>
+</html>

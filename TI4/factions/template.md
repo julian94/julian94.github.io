@@ -21,14 +21,15 @@
 The Template has a commodity limit of 7.
 
 ## Faction Abilities
-* GENERIC: When you would play this Faction, instead play a different one.
+### GENERIC    
+When you would play this Faction, instead play a different one.
 
 ## Promissory Note
-Generic Promise  
->ACTION: Place this card face up in your play area. At the end of the round, return it to the Template player.  
+### Generic Promise  
+>Action: Place this card face up in your play area. At the end of the round, return it to the Template player.  
 
 ## Faction Technologies
-![Green Tech](../images/tech_green_small.bmp)  Copying:  
+![Green Tech](../images/tech_green_small.bmp) Copying:  
 > At the beginning of writing up a Faction, you may copy this template.  
 
 `Prerequisites:` ![Green Tech](../images/tech_green_small.bmp)
@@ -38,7 +39,7 @@ Generic Promise
 |-|-|-|-|-|-|-|-|
 |Carrier|Archive I |3|9|1|6|Can only carry Ground Forces.|None|
 |Carrier|Archive II|3|9|2|8|Can only carry Ground Forces.|![Yellow Tech](../images/tech_yellow_small.bmp)|
-|Flagship|Master Copy|8|10x(10)|1|4|Sustain Damage. If Master Copy is destroyed, you may produce another copy at any point until end of turn. |None|
+|Flagship|Master Copy|8|10(x10)|1|4|Sustain Damage. If Master Copy is destroyed, you may produce another copy at any point until end of turn. |None|
 |Mech|Stapler|2|6|-|-|Sustain Damage.|None|
 
 ## Leaders

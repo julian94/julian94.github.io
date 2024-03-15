@@ -22,30 +22,31 @@
 The Arborec has a commodity limit of 3.
 
 ## Faction Abilities
-* MITOSIS: Your space docks cannot produce infantry.  At the start of the status phase , place 1 infantry from your reinforcements on any planet you control.
+### MITOSIS
+Your space docks cannot produce infantry.  At the start of the status phase , place 1 infantry from your reinforcements on any planet you control.
 
 ## Promissory Note
-Stymie  
->ACTION: Place this card face up in your play area.  
->While this card is in your play area, the Arborec player cannot produce units in or adjacent to non-home systems that contain 1 or more of your units.  
->If you activate a system that contains 1 or more of the Arborec player's units, return this card to the Arborec player.  
+### Stymie  
+ACTION: Place this card face up in your play area.  
+While this card is in your play area, the Arborec player cannot produce units in or adjacent to non-home systems that contain 1 or more of your units.  
+If you activate a system that contains 1 or more of the Arborec player's units, return this card to the Arborec player.  
 
-Stymie Ω  
->After another player moves ships into a system that contains 1 or more of your units:  
->You may place 1 command token from that player's reinforcements in any non-home system.  
->Then, return this card to the Arborec player.
+### Stymie Ω  
+After another player moves ships into a system that contains 1 or more of your units:  
+You may place 1 command token from that player's reinforcements in any non-home system.  
+Then, return this card to the Arborec player.
 
 ## Faction Technologies
 ![Green Tech](../images/tech_green_small.bmp)  Bioplasmosis:  
 > At the end of the status phase , you may remove any number of infantry from planets you control and place them on 1 or more planets you control in the same or adjacent systems.
 
-`Prerequisites:` ![Green Tech](../images/tech_green_small.bmp) ![Green Tech](../images/tech_green_small.bmp)
+`Prerequisites:` ![Green Tech](../images/tech_green_small.bmp)![Green Tech](../images/tech_green_small.bmp)
 
 ## Faction Specific Units
 |Type|Name|Cost|Combat|Move|Capacity|Abilities|Prerequisites|
 |-|-|-|-|-|-|-|-|
 |Infantry|Letani Warrior I |1x2|8|-|-|Production 1.|None|
-|Infantry|Letani Warrior II|1x2|7|-|-|Production 2. After this unit is destroyed, roll 1 die.  If the result is 6 or greater, place the unit on this card.  At the start of your next turn, place each unit that is on this card on a planet you control in your home system. |![Green Tech](../images/tech_green_small.bmp) ![Green Tech](../images/tech_green_small.bmp)|
+|Infantry|Letani Warrior II|1x2|7|-|-|Production 2. After this unit is destroyed, roll 1 die.  If the result is 6 or greater, place the unit on this card.  At the start of your next turn, place each unit that is on this card on a planet you control in your home system. |![Green Tech](../images/tech_green_small.bmp)![Green Tech](../images/tech_green_small.bmp)|
 |Flagship|Duha Menaimon|8|7 (x2)|1|5|Sustain Damage. After you activate this system, you may produce up to 5 units in this system. |None|
 |Mech|Letani Behemoth|2|6|-|-|Sustain Damage. Production 2. Planetary Shield. DEPLOY: When you would use your MITOSIS faction ability you may replace 1 of your infantry with 1 mech from your reinforcements instead.|None|
 

@@ -21,14 +21,17 @@
 The Template has a commodity limit of 3.
 
 ## Faction Abilities
-* SCAVENGE: After you gain control of a planet, gain 1 trade good.
-* NOMADIC: You can score objectives even if you do not control the planets in your home system.
+### SCAVENGE  
+After you gain control of a planet, gain 1 trade good.
+
+### NOMADIC  
+You can score objectives even if you do not control the planets in your home system.
 
 ## Promissory Note
-Ragh's Call  
->After you commit 1 or more units to land on a planet:  
->Remove all of the Saar player's ground forces from that planet and place them on a planet controlled by the Saar player.  
->Then return this card to the Saar player.
+### Ragh's Call  
+After you commit 1 or more units to land on a planet:  
+Remove all of the Saar player's ground forces from that planet and place them on a planet controlled by the Saar player.  
+Then return this card to the Saar player.
 
 ## Faction Technologies
 ![Blue Tech](../images/tech_blue_small.bmp)  Chaos Mapping:  
@@ -41,7 +44,7 @@ Ragh's Call
 |Type|Name|Cost|Combat|Move|Capacity|Abilities|Prerequisites|
 |-|-|-|-|-|-|-|-|
 |Space Dock|Floating Factory I |-|-|1|4|Production 5. This unit is placed in a space area instead of on a planet. This unit can move and retreat as if it were a ship.  If this unit is blockaded, it is destroyed. |None|
-|Space Dock|Floating Factory I |-|-|1|4|Production 5. This unit is placed in a space area instead of on a planet. This unit can move and retreat as if it were a ship.  If this unit is blockaded, it is destroyed. |![Yellow Tech](../images/tech_yellow_small.bmp) ![Yellow Tech](../images/tech_yellow_small.bmp)|
+|Space Dock|Floating Factory I |-|-|1|4|Production 5. This unit is placed in a space area instead of on a planet. This unit can move and retreat as if it were a ship.  If this unit is blockaded, it is destroyed. |![Yellow Tech](../images/tech_yellow_small.bmp)![Yellow Tech](../images/tech_yellow_small.bmp)|
 |Flagship|Son of Ragh|8|5x(2)|1|3|Sustain Damage. Anti-Fighter Barrage 6 (x4)|None|
 |Mech|Scavenger Zeta|2|6|-|-|Sustain Damage. DEPLOY: After you gain control of a planet, you may spend 1 trade good to place 1 mech on that planet. |None|
 

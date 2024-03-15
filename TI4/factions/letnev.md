@@ -23,21 +23,24 @@
 The Barony of Letnev has a commodity limit of 2.
 
 ## Faction Abilities
-* MUNITIONS RESERVES: At the start of each round of space combat, you may spend 2 trade goods; you may re-roll any number of your dice during that combat round.
-* ARMADA: The maximum number of non-fighter ships you can have in each system is equal to 2 more than the number of tokens in your fleet pool.
+### MUNITIONS RESERVES  
+At the start of each round of space combat, you may spend 2 trade goods; you may re-roll any number of your dice during that combat round.
+
+### ARMADA  
+The maximum number of non-fighter ships you can have in each system is equal to 2 more than the number of tokens in your fleet pool.
 
 ## Promissory Note
-War Funding  
->At the start of a round of space combat:  
->The Letnev player loses 2 trade goods.  
->During this combat round, re-roll any number of your dice.  
->Then, return this card to the Letnev player.  
+### War Funding  
+At the start of a round of space combat:  
+The Letnev player loses 2 trade goods.  
+During this combat round, re-roll any number of your dice.  
+Then, return this card to the Letnev player.  
 
-War Funding   Ω
->After you and your opponent roll dice during space combat:  
->You may reroll all of your opponent's dice.  
->You may reroll any number of your dice.  
->Then, return this card to the Letnev player.  
+### War Funding   Ω
+After you and your opponent roll dice during space combat:  
+You may reroll all of your opponent's dice.  
+You may reroll any number of your dice.  
+Then, return this card to the Letnev player.  
 
 ## Faction Technologies
 ![Yellow Tech](../images/tech_yellow_small.bmp)  L4 Disruptors:  

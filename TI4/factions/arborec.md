@@ -37,8 +37,8 @@ You may place 1 command token from that player's reinforcements in any non-home 
 Then, return this card to the Arborec player.
 
 ## Faction Technologies
-![Green Tech](../images/tech_green_small.bmp)  Bioplasmosis:  
-> At the end of the status phase , you may remove any number of infantry from planets you control and place them on 1 or more planets you control in the same or adjacent systems.
+### ![Green Tech](../images/tech_green_small.bmp)  Bioplasmosis:  
+At the end of the status phase , you may remove any number of infantry from planets you control and place them on 1 or more planets you control in the same or adjacent systems.
 
 `Prerequisites:` ![Green Tech](../images/tech_green_small.bmp)![Green Tech](../images/tech_green_small.bmp)
 
@@ -59,20 +59,20 @@ Then, return this card to the Arborec player.
 |Hero|Letani Miasmiala|Have 3 Scored Objectives|ULTRASONIC EMITTER: ACTION: Produce any number of units in any number of systems that contain 1 or more of your ground forces. Then, purge this card. |
 
 ## F.A.Q.
-Q: Can the Arborec's "Mitosis" ability be used to place 1 infantry on every planet they control?
+Q: Can the Arborec's "Mitosis" ability be used to place 1 infantry on every planet they control?  
 A: No. Only 1 infantry may be placed on a single planet using this ability.
 
-Q: Can the secondary ability of the “Warfare” strategy card be used to trigger the “Production” ability of the Arborec’s Letani Warriors?
+Q: Can the secondary ability of the “Warfare” strategy card be used to trigger the “Production” ability of the Arborec’s Letani Warriors?  
 A: No, the “Warfare” secondary ability can only be used to trigger the production ability of space docks, and thus cannot be used by the Arborec to produce additional infantry.
 
-Q: Can the “Production” abilities of multiple Arborec “Letani Warriors” in a system be combined to allow the production of two infantry for one resource?
+Q: Can the “Production” abilities of multiple Arborec “Letani Warriors” in a system be combined to allow the production of two infantry for one resource?  
 A: Yes. Production value is totaled when the “Production” ability of units in a system is used.
 
-Q: Does the Arborec flagship (The “Duha Menaimon”) need to be in a system when it is activated to make use of its ability?
+Q: Does the Arborec flagship (The “Duha Menaimon”) need to be in a system when it is activated to make use of its ability?  
 A: Yes. The “Duha Menaimon” can only be used to produce units when it is in a system at the moment it is activated.
 
-Q: Can the technology "Sarween Tools" be used to reduce the cost of units produced by the Duha Menaimon?
+Q: Can the technology "Sarween Tools" be used to reduce the cost of units produced by the Duha Menaimon?  
 A: No. Sarween tools can only be used when a unit specifically uses the PRODUCTION ability
 
-Q: When using the Arborec's hero ability "Ultrasonic Emitter", does the cost for the produced units need to be paid for?
+Q: When using the Arborec's hero ability "Ultrasonic Emitter", does the cost for the produced units need to be paid for?  
 A: Yes. Any game effect that instructs a player to produce units requires them to pay for them unless otherwise specified. 

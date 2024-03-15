@@ -42,8 +42,8 @@ Choose 1 of those units to roll 1 additional die
 Then, return this card to the Argent player  
 
 ## Faction Technologies
-![Yellow Tech](../images/tech_yellow_small.bmp) Aerie Hololattice:  
-> Other players cannot move ships through systems that contain your structures. Each planet that contains 1 or more of your structures gains the PRODUCTION 1 ability as if it were a unit
+### ![Yellow Tech](../images/tech_yellow_small.bmp) Aerie Hololattice:  
+Other players cannot move ships through systems that contain your structures. Each planet that contains 1 or more of your structures gains the PRODUCTION 1 ability as if it were a unit
 
 `Prerequisites:` ![Yellow Tech](../images/tech_yellow_small.bmp)
 

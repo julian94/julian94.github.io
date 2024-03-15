@@ -21,14 +21,17 @@
 The Federation of Sol has a commodity limit of 4.
 
 ## Faction Abilities
-* ORBITAL DROP: Action: Spend 1 token from your strategy pool to place 2 infantry from your reinforcements on 1 planet you control.  
-* VERSATILE: When you gain command tokens during the status phase, gain 1 additional command token.
+### ORBITAL DROP  
+Action: Spend 1 token from your strategy pool to place 2 infantry from your reinforcements on 1 planet you control.  
+
+### VERSATILE  
+When you gain command tokens during the status phase, gain 1 additional command token.
 
 ## Promissory Note
 ### Military Support  
->At the start of the Sol player's turn:  
->Remove 1 token from the Sol player's strategy pool, if able, and return it to their reinforcements.  Then, you may place 2 infantry from your reinforcements on any planet you control.  
->Then return this card to the Sol player.  
+At the start of the Sol player's turn:  
+Remove 1 token from the Sol player's strategy pool, if able, and return it to their reinforcements.  Then, you may place 2 infantry from your reinforcements on any planet you control.  
+Then return this card to the Sol player.  
 
 ## Faction Specific Units
 |Type|Name|Cost|Combat|Move|Capacity|Abilities|Prerequisites|

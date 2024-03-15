@@ -8,7 +8,12 @@
 
 ### Units
 * 1 Carrier
+* 1 Cruiser
+* 1 Destroyer
+* 1 Dreadnought
+* 2 Fighters
 * 2 Infantry
+* 1 PDS
 * 1 Space Dock
 
 ### Technologies
@@ -26,11 +31,11 @@ When you would play this Faction, instead play a different one.
 
 ## Promissory Note
 ### Generic Promise  
->Action: Place this card face up in your play area. At the end of the round, return it to the Template player.  
+Action: Place this card face up in your play area. At the end of the round, return it to the Template player.  
 
 ## Faction Technologies
-![Green Tech](../images/tech_green_small.bmp) Copying:  
-> At the beginning of writing up a Faction, you may copy this template.  
+### ![Green Tech](../images/tech_green_small.bmp) Copying:  
+At the beginning of writing up a Faction, you may copy this template.  
 
 `Prerequisites:` ![Green Tech](../images/tech_green_small.bmp)
 

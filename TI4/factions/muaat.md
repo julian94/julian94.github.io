@@ -33,15 +33,15 @@ Action: Remove 1 token from the Muaat player's fleet pool and return it to their
 Then, return this card to the Muaat player.
 
 ## Faction Technologies
-![Red Tech](../images/tech_red_small.bmp) Magmus Reactor:  
->Your ships can move into supernovas.  
->After 1 or more of your units use Production in a system that either contains a war sun or is adjacent to a supernova, gain 1 trade good.
+### ![Red Tech](../images/tech_red_small.bmp) Magmus Reactor:  
+Your ships can move into supernovas.  
+After 1 or more of your units use Production in a system that either contains a war sun or is adjacent to a supernova, gain 1 trade good.
 
 `Prerequisites:` ![Red Tech](../images/tech_red_small.bmp)![Red Tech](../images/tech_red_small.bmp)
 
-![Red Tech](../images/tech_red_small.bmp) Magmus Reactor Ω:  
->Your ships can move into supernovas.  
->Each supernova that contains 1 or more of your units gains the PRODUCTION 5 ability as if it were 1 of your units.
+### ![Red Tech](../images/tech_red_small.bmp) Magmus Reactor Ω:  
+Your ships can move into supernovas.  
+Each supernova that contains 1 or more of your units gains the PRODUCTION 5 ability as if it were 1 of your units.
 
 `Prerequisites:` ![Red Tech](../images/tech_red_small.bmp)![Red Tech](../images/tech_red_small.bmp)
 
@@ -62,8 +62,8 @@ Then, return this card to the Muaat player.
 |Hero|Adjudicator Ba'al|Have 3 Scored Objectives|NOVA SEED: After you move a war sun into a non-home system other than Mecatol Rex: You may destroy all other players' units in that system and replace that system tile with the Muaat supernova tile. If you do, purge this card and each planet card that corresponds to the replaced system tile.|
 
 ## F.A.Q.
-Q: How does the Agenda "Publicize Weapon Schematics" affect the Embers of Muaat's War Suns?
+Q: How does the Agenda "Publicize Weapon Schematics" affect the Embers of Muaat's War Suns?  
 A: Prototype War Sun I is considered a war sun but is a printed unit not a war sun technology. Thus, a vote of "For" would mean that it would lose the Sustain Damage ability but other players would not be able to ignore war sun prerequisites. A vote of "Against" would not affect the Muaat player. The agenda plays as normal if the Muaat player has researched Prototype War Sun II.
 
-Q: How does The Embers of Muaat Hero, Nova Seed, interact with tokens (e.g. wormholes, Mirage)?
+Q: How does The Embers of Muaat Hero, Nova Seed, interact with tokens (e.g. wormholes, Mirage)?  
 A: Nova Seed also purges all tokens other than command tokens and frontier tokens. Any faction specific tokens are returned to that faction. 

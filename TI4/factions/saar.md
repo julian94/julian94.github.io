@@ -34,9 +34,9 @@ Remove all of the Saar player's ground forces from that planet and place them on
 Then return this card to the Saar player.
 
 ## Faction Technologies
-![Blue Tech](../images/tech_blue_small.bmp)  Chaos Mapping:  
->Other players cannot activate asteroid fields that contain 1 or more of your ships.  
->At the start of your turn during the action phase, you may produce 1 unit in a system that contains at least 1 of your units that has Production.  
+### ![Blue Tech](../images/tech_blue_small.bmp)  Chaos Mapping:  
+Other players cannot activate asteroid fields that contain 1 or more of your ships.  
+At the start of your turn during the action phase, you may produce 1 unit in a system that contains at least 1 of your units that has Production.  
 
 `Prerequisites:` ![Blue Tech](../images/tech_blue_small.bmp)
 
@@ -57,20 +57,20 @@ Then return this card to the Saar player.
 |Hero|Gurno Aggero|Have 3 Scored Objectives|ARMAGEDDON RELAY: Action: Choose 1 system that is adjacent to 1 of your space docks. Destroy all other player's infantry and fighters in that system. Then, purge this card.|
 
 ## F.A.Q.
-Q: Can the Clan of Saar’s “Chaos Mapping” faction-specific technology be used at the start of each of that player’s turns during the action phase?
+Q: Can the Clan of Saar’s “Chaos Mapping” faction-specific technology be used at the start of each of that player’s turns during the action phase?  
 A: Yes, “Chaos Mapping” can be used as many times as you have turns during the action phase.
 
-Q: Can the Clan of Saar’s “Chaos Mapping” faction-specific technology be used on the turn that the Saar player passes?
+Q: Can the Clan of Saar’s “Chaos Mapping” faction-specific technology be used on the turn that the Saar player passes?  
 A: Yes, “Chaos Mapping” can be used on the turn that a player passes.
 
-Q: Can the Clan of Saar’s “Floating Factories” trigger Space Cannon Offense or be assigned hits produced by PDS units?
+Q: Can the Clan of Saar’s “Floating Factories” trigger Space Cannon Offense or be assigned hits produced by PDS units?  
 A: No, “Floating Factories” cannot be the target of PDS fire.
 
-Q: How does Clan of Saar’s agent, Mendosa, interact with abilities that increase movement such as Gravity Drive or Flank Speed?
+Q: How does Clan of Saar’s agent, Mendosa, interact with abilities that increase movement such as Gravity Drive or Flank Speed?  
 A: Clan of Saar’s agent, Mendosa, will get an errata to “WHEN you activate a system.” This means other bonuses would be applied after Mendosa takes effect.
 
-Q: When leaving a Nebula, is Clan of Saar’s agent, Mendosa, applied as a bonus or setting the move value?
+Q: When leaving a Nebula, is Clan of Saar’s agent, Mendosa, applied as a bonus or setting the move value?  
 A: The Nebula section of the LRR will be edited to reflect changing the printed move value of a unit to 1, Mendosa would be treated as a bonus and would override the Nebula’s movement value rule.
 
-Q: Does the Clan of Saar’s “Floating Factories” count in fleet pool ?
+Q: Does the Clan of Saar’s “Floating Factories” count in fleet pool?  
 A: No, the Clan of Saar’s “Floating Factories” are still structures and do not count in the fleet pool, even though they move "as if it were a ship". 

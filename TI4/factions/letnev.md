@@ -43,13 +43,13 @@ You may reroll any number of your dice.
 Then, return this card to the Letnev player.  
 
 ## Faction Technologies
-![Yellow Tech](../images/tech_yellow_small.bmp)  L4 Disruptors:  
-> During an invasion, units cannot use SPACE CANNON against your units.  
+### ![Yellow Tech](../images/tech_yellow_small.bmp)  L4 Disruptors:  
+During an invasion, units cannot use SPACE CANNON against your units.  
 
 `Prerequisites:` ![Yellow Tech](../images/tech_yellow_small.bmp)
 
-![Red Tech](../images/tech_red_small.bmp)  Non-Euclidean Shielding:  
-> When 1 of your units uses SUSTAIN DAMAGE, cancel 2 hits instead of 1.
+### ![Red Tech](../images/tech_red_small.bmp)  Non-Euclidean Shielding:  
+When 1 of your units uses SUSTAIN DAMAGE, cancel 2 hits instead of 1.
 
 `Prerequisites:` ![Red Tech](../images/tech_red_small.bmp)
 
@@ -68,8 +68,8 @@ Then, return this card to the Letnev player.
 |Hero|A0|Have 3 Scored Objectives|DARK MATTER AFFINITY: Action: Place this card near the game board; the number of non-fighter ships you can have in systems is not limited by laws or by the number of command tokens in your fleet pool during this game round. At the end of that game round, purge this card. |
 
 ## F.A.Q.
-Q: Can War Funding Omega be used on Anti-Fighter Barrage rolls? How about Munitions Reserves?
+Q: Can War Funding Omega be used on Anti-Fighter Barrage rolls? How about Munitions Reserves?  
 A: No, War Funding Omega, War Funding, Munitions Reserves and Crown of Thalnos, are specific to combat rolls.
 
-Q: Does the Barony of Letnev agent, Viscount Unlenn, allow an extra dice to be rolled during Anti-Fighter Barrage?
+Q: Does the Barony of Letnev agent, Viscount Unlenn, allow an extra dice to be rolled during Anti-Fighter Barrage?  
 A: No, the Barony agent only has an effect on combat rolls. 

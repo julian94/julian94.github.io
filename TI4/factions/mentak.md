@@ -1,6 +1,6 @@
 # The Mentak Coalition
-> Quote 
--- Person
+> One people. One mind. One destiny. We will eise above the pit they have thrown us in.  
+-- Erwan Mentak, Founder of the Coalition
 
 ## Setup
 ### Planets

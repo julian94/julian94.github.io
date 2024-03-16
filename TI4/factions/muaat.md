@@ -1,5 +1,5 @@
 # The Embers of Muaat
-> No longer will the Gashlai be shackled by your whims. Be extinguished, now, and know that you have lost. 
+> No longer will the Gashlai be shackled by your whims. Be extinguished, now, and know that you have lost.  
 -- Fire Warden Umbat
 
 ## Setup

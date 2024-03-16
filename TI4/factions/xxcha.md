@@ -55,7 +55,7 @@ After another player activates a system that contains 1 or more of your ships, y
 
 |Type|Name|Unlock Criteria|Ability|
 |-|-|-|-|
-|Agent|Ggrocuto Rinn|At Game Start|ACTION: Exhaust this card to ready any planet; if that planet is in a system that is adjacent to a planet you control, you may remove 1 infantry from that planet and return it to its reinforcements.|
+|Agent|Ggrocuto Rinn|At Game Start|Action: Exhaust this card to ready any planet; if that planet is in a system that is adjacent to a planet you control, you may remove 1 infantry from that planet and return it to its reinforcements.|
 |Commander|Elder Qanoj|Control planets that have a combined value of at least 12 influence|Each planet you exhaust to cast votes provides 1 additional vote. Game effects cannot prevent you from voting on an agenda. |
 |Hero|Xxekir Grom|Have 3 Scored Objectives|POLITICAL DATA NEXUS: Action: You may discard 1 law from play. Look at the top 5 cards of the agenda deck. Choose 2 to reveal, and resolve each as if you had cast 1 vote for an outcome of your choice; discard the rest. Other players cannot resolve abilities during this action. Then, purge this card.|
 |Hero|Xxekir Grom Ω |Have 3 Scored Objectives|POLITICAL DATA NEXUS Ω: When you exhaust planets, combine the values of their resources and influence. Treat the combined value as if it were both resources and influence.|

@@ -48,5 +48,5 @@ Then return this card to the Sol player.
 |Type|Name|Unlock Criteria|Ability|
 |-|-|-|-|
 |Agent|Evelyn Delouis|At Game Start|At the start of a ground combat round: You may exhaust this card to choose 1 ground force in the active system; that ground force rolls 1 additional die during that combat round.|
-|Commander|A3|Control planets that have a combined total of at least 12 resources.|At the start of a ground combat on a planet you control: You may place 1 infantry from your reinforcements on that planet.|
-|Hero|A0|Have 3 Scored Objectives|HELIO COMMAND ARRAY: Action: Remove each of your command tokens from the game board and return them to your reinforcements. Then, purge this card.|
+|Commander|Claire Gibson|Control planets that have a combined total of at least 12 resources.|At the start of a ground combat on a planet you control: You may place 1 infantry from your reinforcements on that planet.|
+|Hero|Jace X. 4th Air Legion|Have 3 Scored Objectives|HELIO COMMAND ARRAY: Action: Remove each of your command tokens from the game board and return them to your reinforcements. Then, purge this card.|

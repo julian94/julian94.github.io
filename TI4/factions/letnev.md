@@ -1,5 +1,5 @@
 # The Barony of Letnev
-> Hold your fire until the main fleet arrives. Our armada will blot out their sun - when they die, they will die in darkness! 
+> Hold your fire until the main fleet arrives. Our armada will blot out their sun - when they die, they will die in darkness!  
 -- Baron Unlenn
 
 ## Setup
@@ -63,9 +63,9 @@ When 1 of your units uses SUSTAIN DAMAGE, cancel 2 hits instead of 1.
 
 |Type|Name|Unlock Criteria|Ability|
 |-|-|-|-|
-|Agent|A4|At Game Start|At the start of a Space Combat round: You may exhaust this card to choose 1 ship in the active system. That ship rolls 1 additional die during this combat round. |
-|Commander|A3|Have 5 non-fighter ships in 1 system|After 1 of your units uses Sustain Damage: You may gain 1 Trade Good.|
-|Hero|A0|Have 3 Scored Objectives|DARK MATTER AFFINITY: Action: Place this card near the game board; the number of non-fighter ships you can have in systems is not limited by laws or by the number of command tokens in your fleet pool during this game round. At the end of that game round, purge this card. |
+|Agent|Viscount Unlenn|At Game Start|At the start of a Space Combat round: You may exhaust this card to choose 1 ship in the active system. That ship rolls 1 additional die during this combat round. |
+|Commander|Rear Admiral Farran|Have 5 non-fighter ships in 1 system|After 1 of your units uses Sustain Damage: You may gain 1 Trade Good.|
+|Hero|Darktalon Treilla|Have 3 Scored Objectives|DARK MATTER AFFINITY: Action: Place this card near the game board; the number of non-fighter ships you can have in systems is not limited by laws or by the number of command tokens in your fleet pool during this game round. At the end of that game round, purge this card. |
 
 ## F.A.Q.
 Q: Can War Funding Omega be used on Anti-Fighter Barrage rolls? How about Munitions Reserves?  

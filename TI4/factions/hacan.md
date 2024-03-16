@@ -1,5 +1,5 @@
 # The Emirates of Hacan
-> There is no price too great for the Hacan, no silk too fine, and no war too long. My people will persevere. 
+> There is no price too great for the Hacan, no silk too fine, and no war too long. My people will persevere.  
 -- Hacan Carth
 
 ## Setup

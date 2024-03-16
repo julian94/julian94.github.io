@@ -1,5 +1,5 @@
 # The Naalu Collective
-> You insult me, ssskinling. Ze monstrosity you suggest-ze Druaa, we are not capable of such cruelty. Purge zis madness from your mind and leave zis world. 
+> You insult me, ssskinling. Ze monstrosity you suggest-ze Druaa, we are not capable of such cruelty. Purge zis madness from your mind and leave zis world.  
 -- Q'uesh Sish
 
 ## Setup
@@ -59,7 +59,7 @@ After another player activates a system that contains 1 or more of your ships, t
 |Agent|Z'eu Ω|At Game Start|After an agenda is revealed: You may exhaust this card to look at the top card of the agenda deck. Then, you may show that card to 1 other player.|
 |Commander|M'aban|Have 12 fighters on the game board|You may produce 1 additional fighter for their cost; these additional units do not count against your production limit.|
 |Commander|M'aban Ω|Have ground forces in or adjacent to the Mecatol Rex system. |At any time: You may look at your neighbours' hand of promissory notes and the top and bottom card of the agenda deck.|
-|Hero|A0|Have 3 Scored Objectives|C-RADIUM GEOMETRY: At the end of the status phase: You may force each other player to give you 1 promissory note from their hand. If you do, purge this card.|
+|Hero|The Oracle |Have 3 Scored Objectives|C-RADIUM GEOMETRY: At the end of the status phase: You may force each other player to give you 1 promissory note from their hand. If you do, purge this card.|
 
 ## F.A.Q.
 Q: Does the Naalu flagship (“The Matriarch”) allow the Naalu to take gain control of a planet using only fighters?  

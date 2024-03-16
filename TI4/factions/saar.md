@@ -1,5 +1,5 @@
 # The Clan of Saar
-> O, Lisis, you whose fate is forever carved into the backs of the weary. Your spectre is all we see. 
+> O, Lisis, you whose fate is forever carved into the backs of the weary. Your spectre is all we see.  
 -- The Lay of Lisis
 
 ## Setup

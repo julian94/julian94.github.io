@@ -1,5 +1,5 @@
 # The Ghosts of Creuss
-> We do not mean to offend the honored ambassador. We mean only to imply that should his ship attempt to pass through the gate, it will not return. 
+> We do not mean to offend the honored ambassador. We mean only to imply that should his ship attempt to pass through the gate, it will not return.  
 -- Emissary Taivra
 
 ## Setup

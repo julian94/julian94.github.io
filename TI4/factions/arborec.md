@@ -27,7 +27,7 @@ Your space docks cannot produce infantry.  At the start of the status phase , pl
 
 ## Promissory Note
 ### Stymie  
-ACTION: Place this card face up in your play area.  
+Action: Place this card face up in your play area.  
 While this card is in your play area, the Arborec player cannot produce units in or adjacent to non-home systems that contain 1 or more of your units.  
 If you activate a system that contains 1 or more of the Arborec player's units, return this card to the Arborec player.  
 
@@ -54,9 +54,9 @@ At the end of the status phase , you may remove any number of infantry from plan
 
 |Type|Name|Unlock Criteria|Ability|
 |-|-|-|-|
-|Agent|Letani Ospha|At Game Start|ACTION: Exhaust this card and choose a player's non-fighter ship; that player may replace that ship with one from their reinforcements that costs up to 2 more than the replaced ship.|
+|Agent|Letani Ospha|At Game Start|Action: Exhaust this card and choose a player's non-fighter ship; that player may replace that ship with one from their reinforcements that costs up to 2 more than the replaced ship.|
 |Commander|Dirzuga Rophal|Have 12 Ground Forces on Planets you control.|After another player activates a system that contains 1 or more of your units that have PRODUCTION: You may produce 1 unit in that system.|
-|Hero|Letani Miasmiala|Have 3 Scored Objectives|ULTRASONIC EMITTER: ACTION: Produce any number of units in any number of systems that contain 1 or more of your ground forces. Then, purge this card. |
+|Hero|Letani Miasmiala|Have 3 Scored Objectives|ULTRASONIC EMITTER: Action: Produce any number of units in any number of systems that contain 1 or more of your ground forces. Then, purge this card. |
 
 ## F.A.Q.
 Q: Can the Arborec's "Mitosis" ability be used to place 1 infantry on every planet they control?  

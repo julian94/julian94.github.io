@@ -33,13 +33,13 @@ Action: Remove 1 token from the Muaat player's fleet pool and return it to their
 Then, return this card to the Muaat player.
 
 ## Faction Technologies
-### ![Red Tech](../images/tech_red_small.bmp) Magmus Reactor:  
+### ![Red Tech](../images/tech_red_small.bmp) Magmus Reactor  
 Your ships can move into supernovas.  
 After 1 or more of your units use Production in a system that either contains a war sun or is adjacent to a supernova, gain 1 trade good.
 
 `Prerequisites:` ![Red Tech](../images/tech_red_small.bmp)![Red Tech](../images/tech_red_small.bmp)
 
-### ![Red Tech](../images/tech_red_small.bmp) Magmus Reactor Ω:  
+### ![Red Tech](../images/tech_red_small.bmp) Magmus Reactor Ω  
 Your ships can move into supernovas.  
 Each supernova that contains 1 or more of your units gains the PRODUCTION 5 ability as if it were 1 of your units.
 

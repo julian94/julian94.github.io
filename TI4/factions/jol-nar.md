@@ -41,12 +41,12 @@ Gain that technology.
 Then, return this card to the Jol-Nar player.  
 
 ## Faction Technologies
-### ![Yellow Tech](../images/tech_yellow_small.bmp) E-Res Siphons:  
+### ![Yellow Tech](../images/tech_yellow_small.bmp) E-Res Siphons  
 After another player activates a system that contains 1 or more of your ships, gain 4 trade goods.
 
 `Prerequisites:` ![Yellow Tech](../images/tech_yellow_small.bmp)![Yellow Tech](../images/tech_yellow_small.bmp)
 
-### ![Blue Tech](../images/tech_blue_small.bmp) Spatial Conduit Cylinder:  
+### ![Blue Tech](../images/tech_blue_small.bmp) Spatial Conduit Cylinder  
 You may exhaust this card after you activate a system that contains 1 or more of your units; that system is adjacent to all other systems that contain 1 or more of your units during this activation.
 
 `Prerequisites:` ![Blue Tech](../images/tech_blue_small.bmp)![Blue Tech](../images/tech_blue_small.bmp)

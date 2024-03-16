@@ -34,7 +34,7 @@ When you would play this Faction, instead play a different one.
 Action: Place this card face up in your play area. At the end of the round, return it to the Template player.  
 
 ## Faction Technologies
-### ![Green Tech](../images/tech_green_small.bmp) Copying:  
+### ![Green Tech](../images/tech_green_small.bmp) Copying  
 At the beginning of writing up a Faction, you may copy this template.  
 
 `Prerequisites:` ![Green Tech](../images/tech_green_small.bmp)

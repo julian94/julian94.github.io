@@ -39,13 +39,13 @@ You do not have to spend or place a command token to resolve the secondary abili
 Then, return this card to the Winnu player  
 
 ## Faction Technologies
-### ![Blue Tech](../images/tech_blue_small.bmp) Lazax Gate Folding:  
+### ![Blue Tech](../images/tech_blue_small.bmp) Lazax Gate Folding  
 During your tactical actions, if you do not control Mecatol Rex, treat its system as if it contains both an alpha and beta wormhole.  
 Action: If you control Mecatol Rex, exhaust this card to place 1 infantry from your reinforcements on Mecatol Rex. 
 
 `Prerequisites:` ![Blue Tech](../images/tech_blue_small.bmp)![Blue Tech](../images/tech_blue_small.bmp)
 
-### ![Yellow Tech](../images/tech_yellow_small.bmp)  Hegemonic Trade Policy:  
+### ![Yellow Tech](../images/tech_yellow_small.bmp)  Hegemonic Trade Policy  
 During your tactical actions, if you do not control Mecatol Rex, treat its system as if it contains both an alpha and beta wormhole.  
 Action: If you control Mecatol Rex, exhaust this card to place 1 infantry from your reinforcements on Mecatol Rex. 
 

@@ -37,7 +37,7 @@ You may place 1 command token from that player's reinforcements in any non-home 
 Then, return this card to the Arborec player.
 
 ## Faction Technologies
-### ![Green Tech](../images/tech_green_small.bmp)  Bioplasmosis:  
+### ![Green Tech](../images/tech_green_small.bmp)  Bioplasmosis  
 At the end of the status phase , you may remove any number of infantry from planets you control and place them on 1 or more planets you control in the same or adjacent systems.
 
 `Prerequisites:` ![Green Tech](../images/tech_green_small.bmp)![Green Tech](../images/tech_green_small.bmp)

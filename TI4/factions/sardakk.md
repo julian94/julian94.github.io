@@ -31,7 +31,7 @@ Apply +1 to the result of each of your unit's combat rolls during this combat.  
 Then, return this card to the N'orr player.  
 
 ## Faction Technologies
-### ![Red Tech](../images/tech_red_small.bmp) Valkyrie Particle Weave:  
+### ![Red Tech](../images/tech_red_small.bmp) Valkyrie Particle Weave  
 After making combat rolls during a round of ground combat, if your opponent produced 1 or more hits, you produce 1 additional hit.  
 
 `Prerequisites:` ![Red Tech](../images/tech_red_small.bmp)![Red Tech](../images/tech_red_small.bmp)

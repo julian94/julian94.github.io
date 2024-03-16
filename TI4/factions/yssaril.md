@@ -38,12 +38,12 @@ Look at the Yssaril player's hand of action cards.  Choose 1 of those cards and 
 Then, return this card to the Yssaril player.
 
 ## Faction Technologies
-### ![Green Tech](../images/tech_green_small.bmp) Transparasteel Plating:  
+### ![Green Tech](../images/tech_green_small.bmp) Transparasteel Plating  
 During your turn of the action phase, players that have passed cannot play action cards.  
 
 `Prerequisites:` ![Green Tech](../images/tech_green_small.bmp)
 
-### ![Green Tech](../images/tech_green_small.bmp) Mageon Implants:  
+### ![Green Tech](../images/tech_green_small.bmp) Mageon Implants  
 Action: Exhaust this card to look at another player's hand of action cards.  Choose 1 of those cards and add it to your hand.  
 
 `Prerequisites:` ![Green Tech](../images/tech_green_small.bmp)![Green Tech](../images/tech_green_small.bmp)

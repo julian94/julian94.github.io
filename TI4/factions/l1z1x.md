@@ -40,7 +40,7 @@ Gain 1 additional command token.
 Then, return this card to the L1Z1X player.  
 
 ## Faction Technologies
-### ![Yellow Tech](../images/tech_yellow_small.bmp) Inheritance Systems:  
+### ![Yellow Tech](../images/tech_yellow_small.bmp) Inheritance Systems  
 You may exhaust this card and spend 2 resources when you research a technology; ignore all of that technology's prerequisites.  
 
 `Prerequisites:` ![Yellow Tech](../images/tech_yellow_small.bmp)![Yellow Tech](../images/tech_yellow_small.bmp)

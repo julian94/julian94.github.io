@@ -35,12 +35,12 @@ While this card is in your play area, the Mentak player cannot use their Pillage
 If you activate a system that contains 1 or more of the Mentak player's units, return this card to the Mentak player.  
 
 ## Faction Technologies
-### ![Yellow Tech](../images/tech_yellow_small.bmp) Salvage Operations:  
+### ![Yellow Tech](../images/tech_yellow_small.bmp) Salvage Operations  
 After you win or lose a space combat, gain 1 trade good; if you won the combat, you may also produce 1 ship in that system of any ship type that was destroyed during the combat.
 
 `Prerequisites:` ![Yellow Tech](../images/tech_yellow_small.bmp)![Yellow Tech](../images/tech_yellow_small.bmp)
 
-### ![Yellow Tech](../images/tech_yellow_small.bmp) Mirror Computing:  
+### ![Yellow Tech](../images/tech_yellow_small.bmp) Mirror Computing  
 When you spend trade goods, each trade good is worth 2 resources or influence instead of 1.
 
 `Prerequisites:` ![Yellow Tech](../images/tech_yellow_small.bmp)![Yellow Tech](../images/tech_yellow_small.bmp)![Yellow Tech](../images/tech_yellow_small.bmp)

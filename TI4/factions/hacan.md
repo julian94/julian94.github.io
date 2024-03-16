@@ -39,12 +39,12 @@ While this card is in your play area, you may negotiate transactions with player
 If you activate a system that contains 1 or more of the Hacan player's units, return this card to the Hacan player.
 
 ## Faction Technologies
-### ![Green Tech](../images/tech_green_small.bmp) Production Biomes:  
+### ![Green Tech](../images/tech_green_small.bmp) Production Biomes  
 Action: Exhaust this card and spend 1 token from your strategy pool to gain 4 trade goods and choose 1 other player; that player gains 2 trade goods.
 
 `Prerequisites:` ![Green Tech](../images/tech_green_small.bmp)![Green Tech](../images/tech_green_small.bmp)
 
-### ![Yellow Tech](../images/tech_yellow_small.bmp) Quantum Datahub Node:  
+### ![Yellow Tech](../images/tech_yellow_small.bmp) Quantum Datahub Node  
 At the end of the strategy phase, you may spend 1 token from your strategy pool and give another player 3 of your trade goods.  If you do, give 1 of your strategy cards to that player and take 1 of their strategy cards.
 
 `Prerequisites:` ![Yellow Tech](../images/tech_yellow_small.bmp)![Yellow Tech](../images/tech_yellow_small.bmp)![Yellow Tech](../images/tech_yellow_small.bmp)

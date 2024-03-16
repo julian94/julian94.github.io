@@ -35,12 +35,12 @@ Remove 1 token from the Xxcha player's strategy pool and return it to their rein
 Then, return this card to the Xxcha player.
 
 ## Faction Technologies
-### ![Green Tech](../images/tech_green_small.bmp) Instinct Training:  
+### ![Green Tech](../images/tech_green_small.bmp) Instinct Training  
 You may exhaust this card and spend 1 token from your strategy pool when another player plays an action card; cancel that action card.  
 
 `Prerequisites:` ![Green Tech](../images/tech_green_small.bmp)
 
-### ![Yellow Tech](../images/tech_yellow_small.bmp) Nullification Field:  
+### ![Yellow Tech](../images/tech_yellow_small.bmp) Nullification Field  
 After another player activates a system that contains 1 or more of your ships, you may exhaust this card and spend 1 token from your strategy pool; immediately end that player's turn.  
 
 `Prerequisites:` ![Yellow Tech](../images/tech_yellow_small.bmp)![Yellow Tech](../images/tech_yellow_small.bmp)

@@ -43,12 +43,12 @@ You may reroll any number of your dice.
 Then, return this card to the Letnev player.  
 
 ## Faction Technologies
-### ![Yellow Tech](../images/tech_yellow_small.bmp)  L4 Disruptors:  
+### ![Yellow Tech](../images/tech_yellow_small.bmp) L4 Disruptors  
 During an invasion, units cannot use SPACE CANNON against your units.  
 
 `Prerequisites:` ![Yellow Tech](../images/tech_yellow_small.bmp)
 
-### ![Red Tech](../images/tech_red_small.bmp)  Non-Euclidean Shielding:  
+### ![Red Tech](../images/tech_red_small.bmp) Non-Euclidean Shielding  
 When 1 of your units uses SUSTAIN DAMAGE, cancel 2 hits instead of 1.
 
 `Prerequisites:` ![Red Tech](../images/tech_red_small.bmp)

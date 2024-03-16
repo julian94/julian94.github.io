@@ -36,17 +36,17 @@ Place or move a Creuss wormhole token into either a system that contains a plane
 Then, return this card to the Creuss player.  
 
 ## Faction Technologies
-### ![Blue Tech](../images/tech_blue_small.bmp) Wormhole Generator:  
+### ![Blue Tech](../images/tech_blue_small.bmp) Wormhole Generator  
 At the start of the status phase, place or move a Creuss wormhole token into either a system that contains a planet you control or a non-home system that does not contain another player's ships  
 
 `Prerequisites:` ![Blue Tech](../images/tech_blue_small.bmp)![Blue Tech](../images/tech_blue_small.bmp)
 
-### ![Blue Tech](../images/tech_blue_small.bmp) Wormhole Generator Ω:  
+### ![Blue Tech](../images/tech_blue_small.bmp) Wormhole Generator Ω  
 Action: Exhaust this card to place or move a Creuss wormhole token into either a system that contains a planet you control or a non-home system that does not contain another player's ships.   
 
 `Prerequisites:` ![Blue Tech](../images/tech_blue_small.bmp)![Blue Tech](../images/tech_blue_small.bmp)
 
-### ![Red Tech](../images/tech_red_small.bmp) Dimensional Splicer:  
+### ![Red Tech](../images/tech_red_small.bmp) Dimensional Splicer  
 At the start of space combat in a system that contains a wormhole and 1 or more of your ships, you may produce 1 hit and assign it to 1 of your opponent's ships.    
 
 `Prerequisites:` ![Red Tech](../images/tech_red_small.bmp)

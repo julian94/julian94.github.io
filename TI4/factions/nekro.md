@@ -41,10 +41,10 @@ While this card is in your play area, the Nekro player cannot use their TECHNOLO
 If you activate a system that contains 1 or more of the Nekro player's units, return this card to the Nekro player.  
 
 ## Faction Technologies
-### Valefar Assimilator X:  
+### Valefar Assimilator X  
 When you would gain another player's technology using one of your faction abilities, you may place the "X" assimilator token on a faction technology owned by that player instead.  While that token is on a technology, this card gains that technology's text.  You cannot place an assimilator token on technology that already has an assimilator token.
 
-### Valefar Assimilator Y:  
+### Valefar Assimilator Y  
 When you would gain another player's technology using one of your faction abilities, you may place the "Y" assimilator token on a faction technology owned by that player instead.  While that token is on a technology, this card gains that technology's text. You cannot place an assimilator token on technology that already has an assimilator token.
 
 ## Faction Specific Units

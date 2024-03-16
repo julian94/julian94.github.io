@@ -37,7 +37,7 @@ Place this card face-up in your play area and place the Naalu "0" token on your 
 Return this card to the Naalu player at the end of the status phase.
 
 ## Faction Technologies
-### ![Green Tech](../images/tech_green_small.bmp) Neuroglaive:  
+### ![Green Tech](../images/tech_green_small.bmp) Neuroglaive  
 After another player activates a system that contains 1 or more of your ships, that player removes 1 token from his fleet pool and returns it to his reinforcements.  
 
 `Prerequisites:` ![Green Tech](../images/tech_green_small.bmp)![Green Tech](../images/tech_green_small.bmp)![Green Tech](../images/tech_green_small.bmp)

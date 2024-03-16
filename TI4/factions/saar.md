@@ -34,7 +34,7 @@ Remove all of the Saar player's ground forces from that planet and place them on
 Then return this card to the Saar player.
 
 ## Faction Technologies
-### ![Blue Tech](../images/tech_blue_small.bmp)  Chaos Mapping:  
+### ![Blue Tech](../images/tech_blue_small.bmp)  Chaos Mapping  
 Other players cannot activate asteroid fields that contain 1 or more of your ships.  
 At the start of your turn during the action phase, you may produce 1 unit in a system that contains at least 1 of your units that has Production.  
 

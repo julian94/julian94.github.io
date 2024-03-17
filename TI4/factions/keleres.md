@@ -63,7 +63,7 @@ Whenever you resolve one of your PRODUCTION abilities, you may resolve an additi
 ## Faction Specific Units
 |Type|Name|Cost|Combat|Move|Capacity|Abilities|Prerequisites|
 |-|-|-|-|-|-|-|-|
-|Artemiris|Master Copy|8|7(x2)|1|6|Sustain Damage. Other players must spend 2 influence to activate the system that contains this ship.|None|
+|Flagship|Artemiris|8|7(x2)|1|6|Sustain Damage. Other players must spend 2 influence to activate the system that contains this ship.|None|
 |Mech|Omniopiares|2|6|-|-|Sustain Damage. Other players must spend 1 influence to commit ground forces to the planet that contains this unit.|None|
 
 ## Leaders

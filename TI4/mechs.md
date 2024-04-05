@@ -11,7 +11,7 @@
 |Letnev|Dunlain Reaper |2|6|Sustain Damage. DEPLOY: At the start of a round of ground combat, you may spend 2 resources to replace 1 of your infantry in that combat with 1 mech.|
 |Mentak|Moll Terminus|2|6|Sustain Damage. Other players' ground forces on this planet cannot use Sustain Damage.|
 |Muaat|Ember Colossus|2|6|When you use your STAR FORGE faction ability in this system or an adjacent system, you may place 1 infantry from your reinforcements with this unit.|
-|Naalu|Iconoclast Ω|2|6||Sustain Damage. Other players cannot use ANTI-FIGHTER BARRAGE against your units in this system.|
+|Naalu|Iconoclast Ω|2|6|Sustain Damage. Other players cannot use ANTI-FIGHTER BARRAGE against your units in this system.|
 |Nekro|Mordred|2|6|Sustain Damage. During combat against an opponent who has an "X" or "Y" token on 1 or more of their technologies, apply +2 to the result of each of this unit's combat rolls.|
 |Saar|Scavenger Zeta|2|6|Sustain Damage. DEPLOY: After you gain control of a planet, you may spend 1 trade good to place 1 mech on that planet.|
 |Sardakk|Valkyrie Exoskeleton|2|6|Sustain Damage. After this unit uses its SUSTAIN DAMAGE ability during Ground Combat, it produces 1 hit against your opponent's ground forces on this planet.|

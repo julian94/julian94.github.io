@@ -6,7 +6,7 @@
 |Arborec|Letani Behemoth|2|6|Sustain Damage. Production 2. Planetary Shield. DEPLOY: When you would use your MITOSIS faction ability you may replace 1 of your infantry with 1 mech from your reinforcements instead.|
 |Creuss|Icarus Drive|2|6|Sustain Damage. After any player activates a system, you may remove this unit from the game board to place or move a Creuss wormhole token into this system.|
 |Hacan|Pride of Kenara|2|6|Sustain Damage. This planet's card may be traded as part of a transaction; if you do, move all of your units from this planet to another planet you control.|
-|Jol-Nar|Shield Paling|2|6(x2)|Sustain Damage. Your infantry on this planet are not affected by your FRAGILE faction ability.|
+|Jol-Nar|Shield Paling|2|6|Sustain Damage. Your infantry on this planet are not affected by your FRAGILE faction ability.|
 |L1z1x|Annihilator|2|6|Sustain Damage. Bombardment 8. While not participating in ground combat, this unit can use its Bombardment ability on planets in its system as if it were a ship.|
 |Letnev|Dunlain Reaper |2|6|Sustain Damage. DEPLOY: At the start of a round of ground combat, you may spend 2 resources to replace 1 of your infantry in that combat with 1 mech.|
 |Mentak|Moll Terminus|2|6|Sustain Damage. Other players' ground forces on this planet cannot use Sustain Damage.|

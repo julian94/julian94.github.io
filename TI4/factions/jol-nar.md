@@ -55,7 +55,7 @@ You may exhaust this card after you activate a system that contains 1 or more of
 |Type|Name|Cost|Combat|Move|Capacity|Abilities|Prerequisites|
 |-|-|-|-|-|-|-|-|
 |Flagship|J.N.S. Hylarim|8|6(x2)|1|3|Sustain Damage. When making a combat roll for this ship, each result of 9 or 10, before applying modifiers, produces 2 additional hits.|None|
-|Mech|Shield Paling|2|6(x2)|-|-|Sustain Damage. Your infantry on this planet are not affected by your FRAGILE faction ability.|None|
+|Mech|Shield Paling|2|6|-|-|Sustain Damage. Your infantry on this planet are not affected by your FRAGILE faction ability.|None|
 
 ## Leaders
 

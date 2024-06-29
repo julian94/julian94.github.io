@@ -4,7 +4,7 @@
 
 ## Setup
 ### Planets
-* Resource/Influence Name
+* 3/4 The Dark (Nebula) 
 
 ### Units
 * 2 Carriers

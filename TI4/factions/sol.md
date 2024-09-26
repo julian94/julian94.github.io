@@ -38,8 +38,8 @@ Then return this card to the Sol player.
 |-|-|-|-|-|-|-|-|
 |Carrier|Advanced Carrier I |3|9|1|6|-|None|
 |Carrier|Advanced Carrier II|3|9|2|8|Sustain Damage.|![Blue Tech](../images/tech_blue_small.bmp)![Blue Tech](../images/tech_blue_small.bmp)|
-|Infantry|Spec Ops I |1x2|7|-|-|-|None|
-|Infantry|Spec Ops II|1x2|6|-|-|After this unit is destroyed, roll 1 die. If the result is 5 or greater, place the unit on this card. At the start of your next turn, place each unit that is on this card on a planet you control in your home system.|![Green Tech](../images/tech_green_small.bmp)![Green Tech](../images/tech_green_small.bmp)|
+|Infantry|Spec Ops I |1(x2)|7|-|-|-|None|
+|Infantry|Spec Ops II|1(x2)|6|-|-|After this unit is destroyed, roll 1 die. If the result is 5 or greater, place the unit on this card. At the start of your next turn, place each unit that is on this card on a planet you control in your home system.|![Green Tech](../images/tech_green_small.bmp)![Green Tech](../images/tech_green_small.bmp)|
 |Flagship|Genesis|8|5(x2)|1|12|Sustain Damage. At the end of the status phase, place 1 infantry from your reinforcements in this system's space area.|None|
 |Mech|ZS Thunderbolt M2 |2|6|-|-|Sustain Damage. DEPLOY: After you use your ORBITAL DROP faction ability, you may spend 3 resources to place 1 mech on that planet.|None|
 

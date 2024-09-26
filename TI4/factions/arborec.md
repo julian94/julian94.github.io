@@ -45,8 +45,8 @@ At the end of the status phase , you may remove any number of infantry from plan
 ## Faction Specific Units
 |Type|Name|Cost|Combat|Move|Capacity|Abilities|Prerequisites|
 |-|-|-|-|-|-|-|-|
-|Infantry|Letani Warrior I |1x2|8|-|-|Production 1.|None|
-|Infantry|Letani Warrior II|1x2|7|-|-|Production 2. After this unit is destroyed, roll 1 die.  If the result is 6 or greater, place the unit on this card.  At the start of your next turn, place each unit that is on this card on a planet you control in your home system. |![Green Tech](../images/tech_green_small.bmp)![Green Tech](../images/tech_green_small.bmp)|
+|Infantry|Letani Warrior I |1(x2)|8|-|-|Production 1.|None|
+|Infantry|Letani Warrior II|1(x2)|7|-|-|Production 2. After this unit is destroyed, roll 1 die.  If the result is 6 or greater, place the unit on this card.  At the start of your next turn, place each unit that is on this card on a planet you control in your home system. |![Green Tech](../images/tech_green_small.bmp)![Green Tech](../images/tech_green_small.bmp)|
 |Flagship|Duha Menaimon|8|7 (x2)|1|5|Sustain Damage. After you activate this system, you may produce up to 5 units in this system. |None|
 |Mech|Letani Behemoth|2|6|-|-|Sustain Damage. Production 2. Planetary Shield. DEPLOY: When you would use your MITOSIS faction ability you may replace 1 of your infantry with 1 mech from your reinforcements instead.|None|
 

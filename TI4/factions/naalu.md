@@ -45,8 +45,8 @@ After another player activates a system that contains 1 or more of your ships, t
 ## Faction Specific Units
 |Type|Name|Cost|Combat|Move|Capacity|Abilities|Prerequisites|
 |-|-|-|-|-|-|-|-|
-|Fighter|Hybrid Crystal Fighter I |1x2|8|-|-|-|None|
-|Fighter|Hybrid Crystal Fighter II|1x2|7|2|-|This unit may move without being transported.  Each fighter in excess of your ships' capacity counts as 1/2 of a ship against your fleet pool. |![Green Tech](../images/tech_green_small.bmp)![Blue Tech](../images/tech_blue_small.bmp)|
+|Fighter|Hybrid Crystal Fighter I |1(x2)|8|-|-|-|None|
+|Fighter|Hybrid Crystal Fighter II|1(x2)|7|2|-|This unit may move without being transported.  Each fighter in excess of your ships' capacity counts as 1/2 of a ship against your fleet pool. |![Green Tech](../images/tech_green_small.bmp)![Blue Tech](../images/tech_blue_small.bmp)|
 |Flagship|Matriarch|8|9(x2)|1|6|Sustain Damage. During an invasion in this system, you may commit fighters to planets as if they were ground forces. When combat ends, return those units to the space area.|None|
 |Mech|Iconoclast|2|6|-|-|Sustain Damage. During combat against an opponent who has at least 1 relic fragment, apply +2 to the results of this unit's combat rolls.|None|
 |Mech|Iconoclast Ω|2|6|-|-|Sustain Damage. Other players cannot use ANTI-FIGHTER BARRAGE against your units in this system.|None|

@@ -16,7 +16,7 @@
 
 ## Tilberedning
 ### Deig
-1. Smelt smør til det blir byllebrunt og lukter nøttete.
+1. Smelt smør til det blir gyllenbrunt og lukter nøttete.
 2. Pisk in isbiten.
 3. Sett smøret i kjøleskap og la det kjøle seg fullstendig ned, ca 20 minutt.
 4. Pisk mjøl, natron, og salt sammen i ein stor bolle.

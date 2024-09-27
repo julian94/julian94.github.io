@@ -15,7 +15,7 @@
 
 ### Technologies
 ![Yellow Tech](../images/tech_yellow_small.bmp) Sarween Tools  
-![Blue Tech](../images/tech_blue_small.bmp) Scanlink Drone Network  
+![Yellow Tech](../images/tech_yellow_small.bmp) Scanlink Drone Network  
 
 ### Commodities
 The Titans of UL has a commodity limit of 2.

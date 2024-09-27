@@ -1,5 +1,6 @@
 # Seriøse Kjeks
-"Inspirert" av [Serious Eats sine Sjokoladekjeks.](https://www.seriouseats.com/the-food-lab-best-chocolate-chip-cookie-recipe)
+"Inspirert" av [Serious Eats sine Sjokoladekjeks.](https://www.seriouseats.com/the-food-lab-best-chocolate-chip-cookie-recipe)  
+Lager ca 30 kjeks.
 
 # Ingredienser
 * 225g smør

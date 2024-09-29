@@ -38,9 +38,9 @@ Its resource and influence values are each increased by 1 and it is treated as h
 |Type|Name|Cost|Combat|Move|Capacity|Abilities|Prerequisites|
 |-|-|-|-|-|-|-|-|
 |Cruiser|Saturn Engine I |2|7|2|1|-|None|
-|Cruiser|Saturn Engine II|2|7|2|1|Sustain Damage.|![Green Tech](../images/tech_green_small.bmp)![Yellow Tech](../images/tech_yellow_small.bmp)![Red Tech](../images/tech_red_small.bmp)|
-|PDS|Hel‑Titan I |-|-|-|7|Planetary Shield. Space Cannon 6. Sustain Damage. Production 1. This unit is treated as both a structure and a ground force. It cannot be transported.|None|
-|PDS|Hel‑Titan II|-|-|-|7|Planetary Shield. Space Cannon 5. Sustain Damage. Production 1. This unit is treated as both a structure and a ground force. It cannot be transported. You may use this unit's SPACE CANNON against ships that are adjacent to this unit's system.|![Yellow Tech](../images/tech_yellow_small.bmp)![Red Tech](../images/tech_red_small.bmp)|
+|Cruiser|Saturn Engine II|2|6|3|2|Sustain Damage.|![Green Tech](../images/tech_green_small.bmp)![Yellow Tech](../images/tech_yellow_small.bmp)![Red Tech](../images/tech_red_small.bmp)|
+|PDS|Hel‑Titan I |-|7|-|-|Planetary Shield. Space Cannon 6. Sustain Damage. Production 1. This unit is treated as both a structure and a ground force. It cannot be transported.|None|
+|PDS|Hel‑Titan II|-|6|-|-|Planetary Shield. Space Cannon 5. Sustain Damage. Production 1. This unit is treated as both a structure and a ground force. It cannot be transported. You may use this unit's SPACE CANNON against ships that are adjacent to this unit's system.|![Yellow Tech](../images/tech_yellow_small.bmp)![Red Tech](../images/tech_red_small.bmp)|
 |Flagship|Ouranos|8|7(x2)|1|3|Sustain Damage. DEPLOY: After you activate a system that contains 1 or more of your PDS, you may replace 1 of those PDS with this unit.|None|
 |Mech|Hecatoncheires|2|6|-|-|Sustain Damage. DEPLOY: When you would place a PDS on a planet, you may place 1 mech and 1 infantry on that planet instead.|None|
 

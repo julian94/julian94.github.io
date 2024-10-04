@@ -19,7 +19,7 @@
 ![Green Tech](../images/tech_green_small.bmp) Neural Motivator  
 ![Yellow Tech](../images/tech_yellow_small.bmp) Sarween Tools  
 ![Blue Tech](../images/tech_blue_small.bmp) Antimass Deflectors  
-![Red Tech](../images/tech_red_small.bmp) Magen Defense Grid  
+![Red Tech](../images/tech_red_small.bmp) Plasma Scoring  
 
 ### Commodities
 The Universities of Jol-Nar has a commodity limit of 4.

@@ -53,6 +53,10 @@ Then, return this card to the Keleres player.
 You are neighbors with all players that have units or control planets in or adjacent to the Mecatol Rex system.  
 Gain the Custodia Vigilia planet card and its legendary planet ability card. You cannot lose these cards, and this card cannot have an X or Y assimilator token placed on it.  
 
+### Custodia Vigilia 2/3
+> When you control Mecatol Rex it gains Space Cannon 5 and Production 3 [FAQ: as if it were a unit].  
+> Gain 2 Command Tokens when another player scores VP using Imperial. 
+
 `Prerequisites:` ![Yellow Tech](../images/tech_yellow_small.bmp)
 
 ### ![Yellow Tech](../images/tech_yellow_small.bmp) Agency Supply Network  
